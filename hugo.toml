@@ -1,4 +1,4 @@
-baseURL = 'https://woojae.github.io/'
+baseURL = 'https://woojae.github.io/woojae.com/'
 languageCode = 'en-us'
 title = 'Woojae.com'
 theme = 'maverick'
